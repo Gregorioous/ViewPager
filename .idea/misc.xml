@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project from Android/ViewPager/app/src/main/res/drawable/line.xml" value="0.195" />
+        <entry key="..\:/Project from Android/ViewPager/app/src/main/res/drawable/tabs.xml" value="0.196" />
+        <entry key="..\:/Project from Android/ViewPager/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Project from Android/ViewPager/app/src/main/res/layout/fragment_borat.xml" value="0.36666666666666664" />
+        <entry key="..\:/Project from Android/ViewPager/app/src/main/res/layout/fragment_dumb.xml" value="0.36666666666666664" />
+        <entry key="..\:/Project from Android/ViewPager/app/src/main/res/layout/fragment_shreck1.xml" value="0.36666666666666664" />
+        <entry key="..\:/Project from Android/ViewPager/app/src/main/res/layout/fragment_transcendance.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

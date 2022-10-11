@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Bottom Navigation</string>
+    <string name="title">Rugalovka club</string>
+    <string name="Home">Home</string>
+    <string name="Catalog">Catalog</string>
+    <string name="Delivery">Delivery</string>
+    <string name="Contacts">Contacts</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Shreck_forevermore">Shreck_forevermore</string>
+    <string name="Play">Play</string>
+    <string name="Time">∞</string>
+    <string name="Acters">starring Shrek</string>
+    <string name="Transcendance">Transcendance</string>
+    <string name="Transcendance2">Johnny Depp</string>
+    <string name="dumb1">Dumb and Dumber to</string>
+    <string name="dumb2">Jim Carrey and Jeff Daniels</string>
+    <string name="borat1">Borat</string>
+    <string name="borat2">Sacha Noam Baron</string>
+
+
+</resources>
